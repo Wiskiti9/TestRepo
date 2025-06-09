@@ -1,3 +1,2 @@
 # TestRepo
-Testing repository
-This is the first markdown file.
+This is the official repository for IBM Data Science Coursera.
